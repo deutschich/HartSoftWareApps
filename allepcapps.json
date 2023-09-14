@@ -19,9 +19,6 @@
 					"PackageIdentifier" : "Google.Chrome"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.Edge"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
 				},
 				{
@@ -38,9 +35,6 @@
 				},
 				{
 					"PackageIdentifier" : "RaspberryPiFoundation.RaspberryPiImager"
-				},
-				{
-					"PackageIdentifier" : "Meltytech.Shotcut"
 				},
 				{
 					"PackageIdentifier" : "TeamViewer.TeamViewer"
