@@ -61,12 +61,6 @@
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.ADKPEAddon"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsADK"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
 				},
 				{
